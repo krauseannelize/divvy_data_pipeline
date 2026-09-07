@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data files stay out of git (raw downloads and extracts)
+data/
+*.csv
+*.zip
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Secrets and local config
+.env
+
+# macOS
+.DS_Store
