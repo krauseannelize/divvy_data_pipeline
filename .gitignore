@@ -5,6 +5,7 @@ __pycache__/
 
 # Data files stay out of git (raw downloads and extracts)
 data/
+notes/
 *.csv
 *.zip
 
